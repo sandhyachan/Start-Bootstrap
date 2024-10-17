@@ -22,13 +22,13 @@ Check out the live demo [here](https://react-bootstrap-comp.netlify.app).
 
 ## Technologies Used
 
-- **React**: A JavaScript library for building user interfaces.
+- **React**
   
-- **Bootstrap**: A front-end framework for responsive web design.
+- **Bootstrap**
   
-- **JavaScript ES6**: Modern JavaScript syntax and features.
+- **JavaScript ES6**
   
-- **CSS**: For custom styling and layout adjustments.
+- **CSS**
 
 ## Getting Started
 
