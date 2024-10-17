@@ -10,11 +10,6 @@ The primary purpose of this webpage is to dive deep into the use of components i
 
 ## Features
 
-- Responsive design
-- Easy customization
-- Reusable Components
-- Built with Bootstrap 5
-
  **Reusable Components**: Structures reusable components such as Navbar, Header, Icons, Showcase, Testimonials, etc.
   
 - **Responsive Design**: Utilizes Bootstrap’s grid system to ensure a fully responsive layout.
@@ -23,7 +18,7 @@ The primary purpose of this webpage is to dive deep into the use of components i
 
 ## Preview
 
-Check out the live demo [here]().
+Check out the live demo [here](https://react-bootstrap-comp.netlify.app).
 
 ## Technologies Used
 
@@ -41,8 +36,7 @@ Check out the live demo [here]().
 2. Customize the content to fit your needs.
 
     ```bash
-    git clone https://github.com/your-username/landing-page.git
-    cd landing-page
+    git clone https://github.com/sandhyachan/Bootstrap-React-Comp.git
     ```
 
 ## License
