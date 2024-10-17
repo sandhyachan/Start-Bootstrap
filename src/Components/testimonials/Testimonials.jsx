@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../testimonials/Testimonials.css';
+import './Testimonials.css';
 import { TestimonialsData } from './Testimonial_data';
 
 // Testimonials component to display customer feedback

@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
-import '../icons/Icons.css';
+import './Icons.css';
 import { IconsData } from './Icons_data';
 
 export default function Icons() {

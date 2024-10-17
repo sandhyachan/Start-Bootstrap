@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../showcase/Showcase.css'
+import './Showcase.css'
 
 // Showcase component to display feature highlights
 export  default function Showcase() {
