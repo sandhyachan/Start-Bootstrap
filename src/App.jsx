@@ -2,13 +2,13 @@ import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 //Importing individual components for the application
-import Header from './Components/header/Header.jsx';
-import Navbar from './Components/Navbar.jsx'
-import Icons from './Components/icons/Icons.jsx';
-import Showcase from './Components/showcase/Showcase.jsx';
-import Testimonials from './Components/testimonials/Testimonials.jsx';
-import CallToAction from './Components/callToAction/CallToAction.jsx';
-import Footer from './Components/footer/Footer.jsx';
+import Header from '../src/Components/header/Header.jsx';
+import Navbar from '../src/Components/Navbar.jsx'
+import Icons from '../src/Components/icons/Icons.jsx';
+import Showcase from '../src/Components/showcase/Showcase.jsx';
+import Testimonials from '../src/Components/testimonials/Testimonials.jsx';
+import CallToAction from '../src/Components/callToAction/CallToAction.jsx';
+import Footer from '../src/Components/footer/Footer.jsx';
 
 function App() {
   
